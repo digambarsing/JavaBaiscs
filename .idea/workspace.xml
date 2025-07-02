@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb3e94c5-3cb3-4836-a27d-321cdd027b2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crackers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/FindDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/HouseColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/Jagged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/MINJUMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/MergeArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/MinAraRect/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/ProductSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/Trapping/NaiveApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/Trapping/Trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/TwoSumpair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/kadanesAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCracking/remove_prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/CreateBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/Flatten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/LCA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/LVRV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/LcaPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/MergeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/Morris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/OP/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/OP/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/Pdbuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/Traverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/TreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/Zigzag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/inorderWithoutrec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/prac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT/preoredrwohtutrec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Hard/juspayBucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Medium/BeautifulArrangement/brute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Medium/BeautifulArrangement/optimize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Medium/LongestWord/brute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Medium/MinPathSum/Brute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Medium/MinPathSum/Dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Medium/MiniWindowSubString/Brute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Medium/MiniWindowSubString/SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Goldman/Medium/Spiralmtx/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/BellMAnFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Bipartite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/ChaepFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/ClonegraphBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/CycleBfsUn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/CycleDfsDi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/CycleDirPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/CyclePrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DijkstarAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Isbipartite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/MinStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/NumberOfWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Prims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/RottenOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/ZeroOneMtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/googlegraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LL/DetectandRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LL/mergetwosoted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PQ/Frequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PQ/TopKFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ITOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/ItoPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Mini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/NGE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/PostFix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/RemoveconsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/SingleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stockspan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/nextGreaterEele.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LongestPallinSubsequence/meo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LongestPallinSubsequence/rec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LongestpallSubstring/brute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/LongestpallSubstring/optimize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Longestpallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/stringPerm.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rKwksgKi6lBUwF1SKKyxNNywK5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.BellMAnFord.executor": "Run",
+    "Application.Bipartite.executor": "Run",
+    "Application.Brute.executor": "Run",
+    "Application.ChaepFlight.executor": "Run",
+    "Application.ClonegraphBFS.executor": "Run",
+    "Application.CreateBT.executor": "Run",
+    "Application.CycleBfsUn.executor": "Run",
+    "Application.CycleDfsDi.executor": "Run",
+    "Application.CycleDirPrac.executor": "Run",
+    "Application.CyclePrac.executor": "Run",
+    "Application.DeleteNode.executor": "Run",
+    "Application.DetectandRemove.executor": "Run",
+    "Application.DijkstarAlgo.executor": "Run",
+    "Application.Dp.executor": "Run",
+    "Application.FindDuplicates.executor": "Run",
+    "Application.Flatten.executor": "Run",
+    "Application.Frequent.executor": "Run",
+    "Application.GFG.executor": "Run",
+    "Application.GfG.executor": "Run",
+    "Application.Goldman.Medium.LongestWord.brute.executor": "Run",
+    "Application.Goldman.Medium.MiniWindowSubString.Brute.executor": "Run",
+    "Application.HouseColor (1).executor": "Run",
+    "Application.HouseColor.executor": "Run",
+    "Application.ITOP.executor": "Run",
+    "Application.Insertion.executor": "Run",
+    "Application.Isbipartite.executor": "Run",
+    "Application.ItoPost.executor": "Run",
+    "Application.Jagged.executor": "Run",
+    "Application.LCA.executor": "Run",
+    "Application.LVRV.executor": "Run",
+    "Application.LcaPrac.executor": "Run",
+    "Application.LongestSubstring.executor": "Run",
+    "Application.Longestpallindrome.executor": "Run",
+    "Application.MINJUMP.executor": "Run",
+    "Application.MergeIntervals.executor": "Run",
+    "Application.MergeTree.executor": "Run",
+    "Application.MinStep.executor": "Run",
+    "Application.Mini.executor": "Run",
+    "Application.Morris.executor": "Run",
+    "Application.NGE.executor": "Run",
+    "Application.NaiveApp.executor": "Run",
+    "Application.NumberOfIslands.executor": "Run",
+    "Application.NumberOfWays.executor": "Run",
+    "Application.Path.executor": "Run",
+    "Application.Pdbuild.executor": "Run",
+    "Application.PostFix.executor": "Run",
+    "Application.Prims.executor": "Run",
+    "Application.ProductSelf.executor": "Run",
+    "Application.RemoveconsecutiveSequence.executor": "Run",
+    "Application.RottenOranges.executor": "Run",
+    "Application.Search.executor": "Run",
+    "Application.SingleQueue.executor": "Run",
+    "Application.SlidingWindow.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Stockspan.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.Top.executor": "Run",
+    "Application.TopKFreq.executor": "Run",
+    "Application.Trap.executor": "Run",
+    "Application.Traverse.executor": "Run",
+    "Application.TreeSum.executor": "Run",
+    "Application.TwoSumpair.executor": "Run",
+    "Application.ZeroOneMtx.executor": "Run",
+    "Application.Zigzag.executor": "Run",
+    "Application.basic.executor": "Run",
+    "Application.brute.executor": "Run",
+    "Application.googlegraph.executor": "Run",
+    "Application.inorderWithoutrec.executor": "Run",
+    "Application.juspayBucket.executor": "Run",
+    "Application.kadanesAlgo.executor": "Run",
+    "Application.meo.executor": "Run",
+    "Application.mergetwosoted.executor": "Run",
+    "Application.nextGreaterEele.executor": "Run",
+    "Application.optimize.executor": "Run",
+    "Application.prac.executor": "Run",
+    "Application.preoredrwohtutrec.executor": "Run",
+    "Application.rec.executor": "Run",
+    "Application.remove_prefix.executor": "Run",
+    "Application.stringPerm.executor": "Run",
+    "Application.swap.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/digam/IdeaProjects/Crackers/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.juspayBucket">
+    <configuration name="LcaPrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT.LcaPrac" />
+      <module name="Crackers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT.MergeTree" />
+      <module name="Crackers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT.Path" />
+      <module name="Crackers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BT.TreeSum" />
+      <module name="Crackers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="juspayBucket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Goldman.Hard.juspayBucket" />
+      <module name="Crackers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Goldman.Hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.juspayBucket" />
+        <item itemvalue="Application.MergeTree" />
+        <item itemvalue="Application.TreeSum" />
+        <item itemvalue="Application.Path" />
+        <item itemvalue="Application.LcaPrac" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb3e94c5-3cb3-4836-a27d-321cdd027b2c" name="Changes" comment="" />
+      <created>1736321222686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736321222686</updated>
+    </task>
+    <servers />
+  </component>
+</project>
